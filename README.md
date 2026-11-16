@@ -2,7 +2,7 @@
 
 Personal portfolio site built with Next.js, Tailwind CSS and Framer Motion, deployed as a static site on GitHub Pages.
 
-**Live:** https://hemanths933.github.io/ResumeSite/
+**Live:** https://hemanths933.github.io/
 
 ## Develop
 
